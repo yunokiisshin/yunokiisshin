@@ -17,7 +17,7 @@ I am interested in the intersection of computer science and music, especially in
 I am a piano player and a singer. I study music theory as well :smiley:
  - :musical_keyboard: I am a pianist in the Swarthmore Jazz Ensemble.
  - :speaker: I love a cappella singing; I sing in the Oxford Commas and Swarthmore Sixteen Feet (where I am the Music Director).
- - :musical_note: I like jazz, bossa nova, tango, pop, and lo-fi music! 
+ - :musical_note: I like jazz, bossa nova, tango, pop, and lo-fi music! My favorite pieces are Lucky Southern by Keith Jarett, Nica's Dream by Horace Silver, and Under A Smiling Moon by Peter Sandberg :)
 
 ---
 ### More About Me
