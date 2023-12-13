@@ -7,7 +7,7 @@ I am an amateur computer scientist and an aspiring musician :)
 I am interested in the intersection of computer science and music, especially in computational music generation. 
  - Work: 
     - 🔭 I interned as music engineer/programmer at Soundraw, an amazing AI music generation startup full of amazing workers! Check out their service here: https://soundraw.io/
-    - :memo: I had my first literature review, **"Exploring AI Music Generation: A Review of Deep Learning Algorithms and Datasets for Undergraduate Researchers",** in **HCII 2023, Part II, CCIS 1958**!
+    - :memo: I had my first literature review, **"Exploring AI Music Generation: A Review of Deep Learning Algorithms and Datasets for Undergraduate Researchers",** in **HCII 2023, Part II, CCIS 1958**! Check out my work here: https://link.springer.com/chapter/10.1007/978-3-031-49215-0_13
     - :memo: I am working on my second literature review focusing more on the general history and trends of computational music generation, so I can explore understudied potentials in combining different methods.
     - 🌱 My current main project is genetic algorithm-based music generation using LLM as evaluation agent :)
  - Interests: intelligent systems (AI, ML, DL); algorithms (GA); music theory
